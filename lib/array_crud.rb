@@ -10,7 +10,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  add_element_to_end_of_array = [arrays]<< (!).last
+  add_element_to_end_of_array = [arrays]<< ("!").last
     return [arrays!]
 end
 
