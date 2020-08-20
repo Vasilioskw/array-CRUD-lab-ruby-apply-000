@@ -8,11 +8,10 @@ def create_an_array
   create_an_array = [1,2,3,4]
   return [1, 2, 3, 4]
 end
-array = arrays
-element = !
+
 def add_element_to_end_of_array(array, element)
   add_element_to_end_of_array = [arrays]<< ("!").last
-    return ["arrays!"]
+    return [arrays!]
 end
 
 def add_element_to_start_of_array(array, element)
