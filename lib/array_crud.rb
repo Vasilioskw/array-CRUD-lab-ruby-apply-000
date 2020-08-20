@@ -1,5 +1,5 @@
 create_an_array=[]
-  return []
+  returns []
   
 end
 
