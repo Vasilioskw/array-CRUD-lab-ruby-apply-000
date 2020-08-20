@@ -10,8 +10,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  add_element_to_end_of_array = [1, 2]<< (array).last
-    return [1, 2, array]
+  add_element_to_end_of_array = [arrays]<< (!).last
+    return [arrays!]
 end
 
 def add_element_to_start_of_array(array, element)
