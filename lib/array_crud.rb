@@ -10,7 +10,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  add_element_to_end_of_array = [1, 2]<<3
+  add_element_to_end_of_array = [1, 2]<< 3
     return [1, 2, 3]
 end
 
