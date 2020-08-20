@@ -1,5 +1,5 @@
-def create_an_empty_array(nil)
-  nil=[ ]
+def create_an_empty_array
+ array=[ ]
   return [ ]
   
 end
