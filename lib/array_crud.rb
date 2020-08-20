@@ -11,7 +11,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   add_element_to_end_of_array = [1, 2]<<(arrays!).last
-    return [1, 2, 3]
+    return [1, 2, arrays!]
 end
 
 def add_element_to_start_of_array(array, element)
