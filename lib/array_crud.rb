@@ -8,9 +8,9 @@ def create_an_array
   create_an_array = [1,2,3,4]
   return [1, 2, 3, 4]
 end
-x = "arrays!"
+
 def add_element_to_end_of_array(array, element)
-  add_element_to_end_of_array = [1, 2]<< x.last
+  add_element_to_end_of_array = [1, 2]<< arrays!.last
     return [1, 2, arrays!]
 end
 
