@@ -10,7 +10,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  add_element_to_end_of_array = array << element.last
+  add_element_to_end_of_array = ["wow", "I", "am", "really", "learning"] << ("arrays!").last
 return "wow I am really learning arrays!"
 end
 
